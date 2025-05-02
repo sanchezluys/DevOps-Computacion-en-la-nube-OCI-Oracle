@@ -24,7 +24,9 @@ Trabajando con archivos y directorios
 - `ls -la` muestra todo, con los ocultos
 - `echo` envia texto, inclusive a un archivo, 
 - `cat` muestra el contenido del archivo
+- `cat -n archivo.ext` muestra el contenido con las lineas
 - `man` manual, ejemplo `man cat`
+- `whoami` dice el nombre del usuario actual
 
 ![alt text](imagen-5.png)
 
@@ -41,3 +43,16 @@ Columnas:
 usando `man cat`
 
 ![alt text](imagen-7.png)
+
+## Actividad
+
+1 - Utiliza el comando adecuado para mostrar, en el terminal, el mensaje "Bienvenido al curso de Linux de Alura".
+
+2 - Ahora escribe el mensaje de arriba en un archivo llamado bienvenido.txt, usando el comando que realiza esta tarea.
+
+Aproveche la oportunidad para verificar si el archivo fue creado usando el comando ls.
+
+Sugerencia: Recuerde que podemos navegar entre los comandos ya escritos usando las teclas de flecha hacia arriba y hacia abajo.
+
+R:
+![alt text](imagen-8.png)
